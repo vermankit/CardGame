@@ -1,5 +1,5 @@
 # CardGame
-Design and implemantation of extendable solution simple card game.
+# Design and implemantation of extendable solution simple card game.
 
 
 Tech stack.
