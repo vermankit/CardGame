@@ -14,3 +14,5 @@ Feature in card game.
 3 - Restart the game.
 
 This soluiton also have unit testing done for the project.
+
+![](Solution.PNG)
